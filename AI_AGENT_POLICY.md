@@ -977,7 +977,7 @@ Success means:
 
 ---
 
-# Project Mottos
+# 33. Project Mottos
 
 ## Zero Trust. Maximum Protection.
 
