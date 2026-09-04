@@ -977,13 +977,26 @@ Success means:
 
 ---
 
-# 33. Project Mottos
+# Project Mottos
 
 ## Zero Trust. Maximum Protection.
 
-## Evidence before conclusions.
+BIZZ PROJECT assumes trust must be continuously verified.
 
-## Autonomous investigation. Human-authorized impact.
+## Evidence Before Conclusions.
+
+Security decisions must be grounded in observable evidence.
+
+## Autonomous Investigation. Human-Authorized Impact.
+
+AI may assist investigation and reasoning, while consequential
+defensive actions remain under human control.
+
+## To Integrity and Beyond!
+
+Integrity represents both a core cybersecurity principle and the
+character of BIZZ PROJECT: protect trustworthy systems, preserve
+reliable information, and continuously advance defensive capability.
 
 ---
 
