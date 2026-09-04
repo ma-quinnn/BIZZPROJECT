@@ -1,7 +1,6 @@
-## Gemini's product/research job
+## Gemini's specific job
 
-- Research
-- Product
+- Product/Research Agent
 - UX-UI
 - Competitors
 - Prototypes
