@@ -1,10 +1,3 @@
-Absolutely, mentor. 💜 Now we move to **`ARCHITECTURE.md`**.
-
-This one is important because it becomes Claude’s technical map. It should explain **how BIZZ PROJECT is supposed to fit together**, but without locking us into a huge enterprise design before v0.01 even exists.
-
-Paste this into `ARCHITECTURE.md`:
-
-````markdown
 # BIZZ PROJECT — System Architecture
 
 **Document:** ARCHITECTURE.md  
